@@ -36,18 +36,6 @@ values
 
 The browser only uses the anon/publishable key. Never put a `service_role` or secret key in frontend environment variables. RLS is enabled on all API tables; public users can only read published records, while write access requires membership in `team_members`.
 
-## Deploy to Vercel
-
-- Push the project to GitHub.
-- Import the repository in Vercel.
-- Framework preset: Vite.
-- Build command: `npm run build`.
-- Output directory: `dist`.
-- Add `VITE_SUPABASE_URL` and `VITE_SUPABASE_PUBLISHABLE_KEY` under Vercel Environment Variables. The app also accepts the legacy `VITE_SUPABASE_ANON_KEY` variable name for older projects.
-- Redeploy after changing environment variables.
-
-`vercel.json` routes app paths back to `index.html` so `/app#/dashboard` and `/login` work on refresh.
-
 ## Research calculation note
 
 Oil capacity is calculated only from an independently measured oil mass: `Q = oil_retained_g / dry_mass_g`. Do not infer oil mass from the total wet-mass increase when water may also be retained.
