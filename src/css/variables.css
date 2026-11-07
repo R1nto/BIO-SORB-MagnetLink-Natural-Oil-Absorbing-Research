@@ -1,0 +1,47 @@
+:root {
+  /* Palet Eco-Tech Green */
+  --forest: #166534;
+  --eco: #159b70;
+  --water: #168ec1;
+  --soft: #eaf5e9;
+  --bg: #f7faf7;
+  --text: #1f2937;
+
+  /* Turunan agar kontras teks memenuhi WCAG AA */
+  --forest-dark: #0f4d27;
+  --water-dark: #0f6e96;
+  --muted: #5b6674;
+  --border: #d8e4d9;
+  --border-strong: #b9cdbb;
+  --surface: #ffffff;
+
+  --danger: #b42318;
+  --danger-soft: #fdecea;
+  --warn: #8a5300;
+  --warn-soft: #fff4dc;
+
+  --radius: 10px;
+  --radius-sm: 6px;
+  --shadow: 0 1px 2px rgb(31 41 55 / 6%), 0 4px 14px rgb(31 41 55 / 5%);
+
+  --sidebar-w: 248px;
+  --topbar-h: 56px;
+  --content-max: 1180px;
+
+  --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  /* Skala ruang 4/8pt */
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 24px;
+  --s6: 32px;
+  --s7: 48px;
+
+  /* Gerak */
+  --dur-fast: 120ms;
+  --dur: 200ms;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}

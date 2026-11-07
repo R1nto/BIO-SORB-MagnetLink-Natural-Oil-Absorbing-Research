@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="BIO-SORB MagnetLink">
+ <g transform="translate(0 0)"><rect width="58" height="58" y="3" rx="17" fill="#174a35"/><path d="M29 9C21 19 15 26 15 36a14 14 0 0 0 28 0C43 26 37 19 29 9Z" fill="#b8cd91"/><path d="M20 39c7-9 14-14 24-18M17 48h28" fill="none" stroke="#fffdf5" stroke-width="3" stroke-linecap="round"/><path d="M27 33c-5-9-1-15 8-18 1 9-1 15-8 18Z" fill="#4e9871"/></g>
+ <text x="72" y="29" fill="#174a35" font-family="Manrope,Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="-1">BIO-SORB</text>
+ <text x="73" y="47" fill="#758579" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="3.6">MAGNETLINK</text>
+</svg>

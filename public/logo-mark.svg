@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BIO-SORB">
+ <rect width="64" height="64" rx="18" fill="#174a35"/>
+ <path d="M32 8C24 18 18 25 18 35a14 14 0 0 0 28 0C46 25 40 18 32 8Z" fill="#b8cd91"/>
+ <path d="M22 38c7-9 14-14 23-18M19 47h26" fill="none" stroke="#f9f8ef" stroke-width="3" stroke-linecap="round"/>
+ <path d="M29 32c-5-9-1-15 8-18 1 9-1 15-8 18Z" fill="#4e9871"/>
+</svg>
